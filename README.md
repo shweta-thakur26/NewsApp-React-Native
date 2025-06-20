@@ -1,3 +1,5 @@
+Here is the APK file of this Project - [App-release.apk] (https://github.com/shweta-thakur26/NewsApp-React-Native/releases/download/v1.0.0/newsfeed.apk)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
